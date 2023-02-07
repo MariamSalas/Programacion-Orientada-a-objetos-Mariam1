@@ -8,11 +8,11 @@ public class Conversor {
      * decimal y el mismo lo convierte en uno base binario
      *
      * @param deciamal convertir a base deciamal
-     * @retur numero en base binario
+     * @return numero en base binarioo
      */
     public static String conversor (String deciamal){
         return null;
         }
     }
 
-}
+
