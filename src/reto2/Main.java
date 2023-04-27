@@ -1,9 +1,9 @@
-package reto3;
+package reto2;
 
-import reto3.ui.CLI;
+import reto2.ui.CLI;
 
 /**
- *Ejecución del programa que ejecuta una calculadora
+ *Ejecución del programa que ejecuta una piramide
  */
 
 public class Main {

@@ -1,9 +1,9 @@
-package reto3;
+package reto2b;
 
-import reto3.ui.CLI;
+import reto2b.ui.CLI;
 
 /**
- *Ejecución del programa que ejecuta una calculadora
+ *Ejecución del programa que ejecuta una Boleteria
  */
 
 public class Main {

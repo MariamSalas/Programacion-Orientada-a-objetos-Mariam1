@@ -1,9 +1,9 @@
-package reto3;
+package reto4;
 
-import reto3.ui.CLI;
+import reto4.ui.CLI;
 
 /**
- *Ejecución del programa que ejecuta una calculadora
+ *Ejecución del programa
  */
 
 public class Main {
