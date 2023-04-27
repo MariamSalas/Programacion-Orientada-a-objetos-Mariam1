@@ -19,7 +19,9 @@ public class CLI {
         scanner.close();
 
         Piramide.buildPyramid(size);
+
     }
+
 
 
 }
