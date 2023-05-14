@@ -27,3 +27,4 @@ class Wizard extends Character {
 
     }
 }
+

@@ -10,3 +10,5 @@ class Hero extends Character {
         super(var1, var2, var4);
     }
 }
+
+
