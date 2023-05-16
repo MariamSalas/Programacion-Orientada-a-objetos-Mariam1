@@ -160,8 +160,4 @@ public class WordGameProcess {
         return guessedLetters;
     }
 }
-public class ZeroCharacterException extends Exception {
-    public ZeroCharacterException(String message){
-        super(message);
-    }
-}
+
